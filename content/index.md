@@ -10,9 +10,9 @@ My interests encompass all things space, and i've worked on rocket design, space
 
 I'm hoping to use this site to document my astrophotography work, as well as any other technical projects that I'm working on at the time.
 
-Where to follow me
-Github: https://github.com/pauladam316
-LinkedIn: https://www.linkedin.com/in/pauladam316/
-Twitter: https://twitter.com/adampaulastro
-Instagram: https://www.instagram.com/pauladam316/
+Where to follow me  
+Github: https://github.com/pauladam316  
+LinkedIn: https://www.linkedin.com/in/pauladam316/  
+Twitter: https://twitter.com/adampaulastro  
+Instagram: https://www.instagram.com/pauladam316/  
 
