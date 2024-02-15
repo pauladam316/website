@@ -1,5 +1,5 @@
 ---
-title: adam.paul.space
+title: Welcome!
 ---
 
 Welcome to my website!
