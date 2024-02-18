@@ -1,5 +1,8 @@
 ---
 title: 1. Why Build an Observatory?
+tags: 
+    - "Astrophotography"
+    - "Observatory"
 ---
 The following is a series of posts detailing how I made my own custom telescope observatory over the past year. It was a project that initially began with the aim to augment my observing time and enhance my astrophotography data collection, but ended up becoming something that became a wonderful learning experience for design and construction of strucures, electronic systems, and software, while providing a cathartic break each week to go outside and build somthing with my hands, something that I was missing in my life at the time. 
 
@@ -8,15 +11,13 @@ The following is a series of posts detailing how I made my own custom telescope 
 
 But why an observatory?
 
-I had a deep love of astrophotography for years. The ability to capture and share the wonders I witnessed transformed into a technical art form for me, where the caliber of my creations was intertwined with solving engineering puzzles. This pursuit became a quest for incremental enhancements—gaining deeper insights into my equipment's operation, exploring new techniques, and experimenting with them to produce stunning photographs. I loved it, and I loved sharing the photos I created with my friends and family. There's an indescribable satisfaction in spending an entire night collecting data, uncertain of its quality, only to return home, process it, and watch a successful image emerge on the screen. It's a moment of triumph, realizing the effort has indeed paid off.
-
+I had a deep love of astrophotography for years. The ability to capture and share the wonders I witnessed transformed into a technical art form for me, where the quality of my work depended directly on the engineering challenges I could solve. This pursuit became a quest for incremental enhancements—gaining deeper insights into my equipment's operation, exploring new techniques, and experimenting with them to produce stunning photographs. I loved it, and I loved sharing the photos I created with my friends and family. There's an indescribable satisfaction in spending an entire night collecting data, uncertain of its quality, only to return home, process it, and watch a successful image emerge on the screen. It's a moment of triumph, realizing the effort has indeed paid off.
 
 So how does astrophotography work anyway? There are a lot of wonderful blogs that explain the process in-depth that I will link here, but I also want to provide a brief overview so that you the reader can have an understanding of the proecess, the tools involved, and how an observatory makes it better. Astrophotography is categorized into two types: planetary, focusing on capturing images of planets within our solar system, and deep-sky, aimed at photographing nebulae and galaxies. My primary focus is on deep-sky astrophotography, which involves taking hundreds of long-exposure photographs of the same celestial object. These images are then combined through a technique known as stacking, where the individual photos are merged and averaged to diminish noise and amplify the signal, resulting in a final image with much more detail than any individual exposure.
-| | |
-|---|---|
-|![alt text](image-6.png)|![alt text](image-8.png)|
-*Left: one 50 second exposure of the orion nebula. Right: A stack of 40 exposures*
-
+![alt text](image-6.png)
+*A single 50 second exposure of the orion nebula*
+![alt text](image-8.png)
+*A stack of 40 exposures*
 To get these photos, you need a few things
 - A good quality telescope, I use an 8" newtonian reflector from skywatcher
 - A camera connected to your telescope where the eyepiece would typically go. I use a canon t5i modified to remove the ir-cut filter
