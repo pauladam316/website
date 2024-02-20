@@ -4,6 +4,7 @@ tags:
     - "Astrophotography"
     - "Observatory"
 ---
+TODO: Edit this page
 The first task in designing my observatory was selecting a location. I was renting an apartment in Montreal at the time, so I didn't have a backyard to put it in. However, the company I was working at developed rocket engines, and we had a big open test site far outside the city where they were willing to let me build the structure. The location was perfect, no light pollution, lots of space, and well secured. With this decided, I set the requirements for my project
 
 Requirements
@@ -16,7 +17,7 @@ Requirements
 When researching designs for the structure, I found that there were two primary types of observatories that people build, domes and roll-off roofs. Domes are your classic observatory design, with a hemispherical dome on top that has a shutter that opens to allow your telescope to view the world. They are awesome for allowing you to have wide viewing angles while protecting your telescope from the elements, plus they look very cool. Rolling roofs are simpler designs, essentially a shed-like structure with a roof that slides on a track, giving the telescope inside a view of the world. 
 | | | 
 |---|---|
-|![alt text](image-28.png) | ![alt text](image-27.png) |
+|![alt text](roll-roof-design.png) | ![alt text](dome-design.png) |
 *Left: A roll-off roof observatory*
 *Right: A dome observatory*
 
@@ -26,18 +27,18 @@ The specific style of rolling roof I chose was a result of a few competing issue
 
 This conflicted with a nice-to-have requirement of mine. I wanted the roof to be tall enough that I could work inside the structure without crouching. I wanted to have a small desk inside that would allow me to work on setting up and modifying the telescope comfortably. To be able to meet both of these requirements, I started designing a lean-to roof structure. A lean-to roof uses a single sloped roof element, creating a profile with low walls on one side and high walls on the other. By combining this with a rectangular building shape, I could put the telescope near the low-walled side, and the distance from the telescope to the high-walled side would be such that I would still get the 30 degree viewing angle I wanted. All this meant that I could make the structure tall enough to work in, and would even be able to fit a full-sized door in the building.
 
-![alt text](image-21.png)
+![alt text](field-of-view.png)
 *Observatory outline in white, approximate field of view of the telescope in green*
 
 To work out the overall structure dimensions I setup my telescope in my apartment and laid out the shape with tape. I measured the height of the telescope at various angles to make sure the roof angles would work, and walked around the stand in the tape box to get a sense of the space I'd have to work in. I settled on an 8'x10' building, with the high wall being exactly tall enough for a standard framed door, and a roof angle of 15 degrees (I debated going for a shallower angle to give more space inside the building, but I needed a steep enough angle to allow snow to slide off).
 
 With the overall dimensions set, this is what I designed:
 
-![alt text](image-13.png)
+![alt text](cad-roof-lowered.png)
 *Observatory with the roof lowered*
-![alt text](image-12.png)
+![alt text](cad-roof-raised.png)
 *Observatory with the roof raised*
-![alt text](image-11.png)
+![alt text](cad-interior.png)
 *Showing the interior, with the telescope and a small desk for controlling the telescope from*
 
 The main structural elements of the observatory are 4 beams made by glueing two 2x6 boards together. Because I couldn't put any concrete into the ground, I wanted a very rigid frame that wouldn't flex and move due to frost in the winter (as this could throw the roof mechanism or telescope out of alignment). Two of these beams run along the bottom of the structure and connect to the floor joists, and the other two are the rails that the roof slides on.
@@ -45,15 +46,15 @@ The main structural elements of the observatory are 4 beams made by glueing two 
 The walls are standard 2x4 construction, uninsulated with a product called LP Smartside as the siding. Smartside is sheets of OSB with a plastic coating on the outside that has a nice siding pattern stamped on it. Its cheap, provides cross-bracing for the structure, and doesn't require a backing material.
 
 The rolling roof design is very simple. The roof slides on rails using 3 wheels on each side. On one side, the wheels use a v-groove and an upside-down piece of angle iron to keep from shifting left or right while moving up the rails. The other side uses flat wheels on a metal plate, since only one side needs to be constrained to avoid the roof shifting, using flat plates here ensures that the roof doesn't bind.
-![alt text](image-16.png)
+![alt text](cad-roof.png)
 *The full rolling roof assembly, showing the wheels it uses to move on the rails*
-![alt text](image-14.png)
+![alt text](cad-wheels.png)
 *close-up showing the v-groove wheel resting on the angle-iron track*
 
 To raise and lower the roof, I use an electric hoist. The hoist sits on the floor and runs over a pulley on the lower wall and connects to the roof. The hoist pulls the roof up and includes a built-in brake to hold position, and uses gravity to lower. 
 
-![alt text](image-22.png)
-![alt text](image-19.png)
+![alt text](hoist-lowered.png)
+![alt text](hoist-raised.png)
 *Diagram showing the roof raising and lowering mechanism*
 
 With the design coming together, I started working on the construction. I still had some open questions about how to keep bugs and birds from getting into the gaps in the roof, and exactly how to design the automation, but I had enough of a rough idea that I felt comfortable with starting to move forward on the construction.
