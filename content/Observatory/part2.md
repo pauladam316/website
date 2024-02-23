@@ -49,7 +49,6 @@ The rolling roof design is very simple. The roof slides on rails using 3 wheels 
 *The full rolling roof assembly, showing the wheels it uses to move on the rails*
 ![alt text](cad-wheels.png)
 *close-up showing the v-groove wheel resting on the angle-iron track*
-
 To raise and lower the roof, I use an electric hoist. The hoist sits on the floor and runs over a pulley on the lower wall and connects to the roof. The hoist pulls the roof up and includes a built-in brake to hold position, and uses gravity to lower. 
 
 ![alt text](hoist-lowered.png)
