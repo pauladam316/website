@@ -16,3 +16,4 @@ LinkedIn: https://www.linkedin.com/in/pauladam316/
 Twitter: https://twitter.com/adampaulastro  
 Instagram: https://www.instagram.com/pauladam316/  
 
+RSS feed for this site: https://adampaul.space/index.xml
