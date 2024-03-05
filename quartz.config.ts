@@ -6,8 +6,8 @@ const config: QuartzConfig = {
     pageTitle: "adampaul.🔭🛰️🚀",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
+    analytics: { 
+      provider: 'umami', host: 'https://analytics.us.umami.is/script.js', websiteId: '86c3d7c8-f0b9-463d-aa0c-01825568f186' 
     },
     locale: "en-US",
     baseUrl: "adampaul.space",
