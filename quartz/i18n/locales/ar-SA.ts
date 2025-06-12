@@ -6,6 +6,21 @@ export default {
     description: "لم يتم تقديم أي وصف",
   },
   components: {
+    callout: {
+      note: "ملاحظة",
+      abstract: "ملخص",
+      info: "معلومات",
+      todo: "للقيام",
+      tip: "نصيحة",
+      success: "نجاح",
+      question: "سؤال",
+      warning: "تحذير",
+      failure: "فشل",
+      danger: "خطر",
+      bug: "خلل",
+      example: "مثال",
+      quote: "اقتباس",
+    },
     backlinks: {
       title: "وصلات العودة",
       noBacklinksFound: "لا يوجد وصلات عودة",
@@ -16,6 +31,9 @@ export default {
     },
     explorer: {
       title: "المستعرض",
+    },
+    readerMode: {
+      title: "وضع القارئ",
     },
     footer: {
       createdWith: "أُنشئ باستخدام",
@@ -38,6 +56,14 @@ export default {
     tableOfContents: {
       title: "فهرس المحتويات",
     },
+    contentMeta: {
+      readingTime: ({ minutes }) =>
+        minutes == 1
+          ? `دقيقة أو أقل للقراءة`
+          : minutes == 2
+            ? `دقيقتان للقراءة`
+            : `${minutes} دقائق للقراءة`,
+    },
   },
   pages: {
     rss: {
@@ -47,6 +73,7 @@ export default {
     error: {
       title: "غير موجود",
       notFound: "إما أن هذه الصفحة خاصة أو غير موجودة.",
+      home: "العوده للصفحة الرئيسية",
     },
     folderContent: {
       folder: "مجلد",
